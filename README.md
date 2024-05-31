@@ -1,3 +1,3 @@
 # basic_nested_nav
 
-A new Flutter project.
+A super basic implementation to showcase nested navigation (with NavigationBar) in Flutter with the standard Navigator.
